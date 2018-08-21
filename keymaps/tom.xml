@@ -1,4 +1,7 @@
 <keymap version="1" name="tom" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
