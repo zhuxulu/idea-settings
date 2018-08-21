@@ -91,4 +91,5 @@
 | Lombok Plugin                  | Lombok 功能辅助插件                  |
 | .ignore                        | 各类版本控制忽略文件生成工具         |
 | HotSwapAgent                   | 热加载                               |
+| Statistic                      | 代码统计                             |
 
