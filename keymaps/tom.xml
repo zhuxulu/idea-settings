@@ -1,0 +1,8 @@
+<keymap version="1" name="tom" parent="$default">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+</keymap>
