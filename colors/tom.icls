@@ -1,0 +1,17 @@
+<scheme name="tom" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-08-21T09:22:42</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2018.2.1.0.0</property>
+    <property name="modified">2018-08-21T09:46:12</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f2f2f2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
