@@ -4,4 +4,7 @@
     <option name="LINE_SPACING" value="1.2" />
     <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
 </application>
