@@ -95,4 +95,5 @@
 | String Manipulation            | 字符串格式风格快捷转换：大小写、驼峰、连接串等 |
 | RestfulTookit                  | 一套 RESTful 服务开发辅助工具集                |
 | Grep Console                   | 控制台配色                                     |
+| Rainbow Brackets               | 彩色括号                                       |
 
