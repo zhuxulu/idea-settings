@@ -92,4 +92,5 @@
 | .ignore                        | 各类版本控制忽略文件生成工具         |
 | HotSwapAgent                   | 热加载                               |
 | Statistic                      | 代码统计                             |
+| String Manipulation            | 驼峰式命名和下划线命名交替变化       |
 
