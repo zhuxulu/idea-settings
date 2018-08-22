@@ -83,14 +83,16 @@
 
 ### 插件
 
-| 名称                           | 介绍                                 |
-| ------------------------------ | ------------------------------------ |
-| Alibaba Java Coding Guidelines | 阿里巴巴出的代码规范检查插件         |
-| CodeGlance                     | 在编辑代码最右侧，显示一块代码小地图 |
-| MybatisX                       | mybatis 框架辅助                     |
-| Lombok Plugin                  | Lombok 功能辅助插件                  |
-| .ignore                        | 各类版本控制忽略文件生成工具         |
-| HotSwapAgent                   | 热加载                               |
-| Statistic                      | 代码统计                             |
-| String Manipulation            | 驼峰式命名和下划线命名交替变化       |
+| 名称                           | 介绍                                           |
+| ------------------------------ | ---------------------------------------------- |
+| Alibaba Java Coding Guidelines | 阿里巴巴出的代码规范检查插件                   |
+| CodeGlance                     | 在编辑代码最右侧，显示一块代码小地图           |
+| MybatisX                       | mybatis 框架辅助                               |
+| Lombok Plugin                  | Lombok 功能辅助插件                            |
+| .ignore                        | 各类版本控制忽略文件生成工具                   |
+| HotSwapAgent                   | 热加载                                         |
+| Statistic                      | 代码统计                                       |
+| String Manipulation            | 字符串格式风格快捷转换：大小写、驼峰、连接串等 |
+| RestfulTookit                  | 一套 RESTful 服务开发辅助工具集                |
+| Grep Console                   | 控制台配色                                     |
 
