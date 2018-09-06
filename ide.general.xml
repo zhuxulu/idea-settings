@@ -1,5 +1,11 @@
 <application>
   <component name="GeneralSettings">
+    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
