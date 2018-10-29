@@ -1,0 +1,16 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="test" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
