@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROJECT BUILD HELP MANAGE" />
       <item value="test" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
