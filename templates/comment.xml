@@ -1,0 +1,14 @@
+<templateSet group="comment">
+  <template name="cc" value="/**&#10; * 功能描述：&#10; * $DESCRIPTION$&#10; * @author $USER$&#10; * @date $DATE$&#10; * @time $TIME$&#10; **/" shortcut="ENTER" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>
