@@ -3,4 +3,8 @@
     <option name="FONT_FAMILY" value="Hack" />
     <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
 </application>
