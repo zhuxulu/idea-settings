@@ -1,5 +1,5 @@
 <templateSet group="comment">
-  <template name="cc" value="/**&#10; * 功能描述：&#10; * $DESCRIPTION$&#10; * @author $USER$&#10; * @date $DATE$ $TIME$&#10; * @version 1.0&#10; **/" shortcut="ENTER" toReformat="false" toShortenFQNames="true">
+  <template name="cc" value="/**&#10; * 功能描述：&#10; * $DESCRIPTION$&#10; * @author $USER$&#10; * @date $DATE$ $TIME$&#10; * @version 1.0&#10; **/" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
