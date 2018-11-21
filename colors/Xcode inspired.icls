@@ -1,4 +1,8 @@
 <scheme name="Xcode inspired" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="modified">2018-11-22T01:14:22</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
