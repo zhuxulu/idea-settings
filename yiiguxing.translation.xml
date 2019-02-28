@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Content" />
       <item value="标清" />
       <item value="高清" />
       <item value="开关电源" />
@@ -12,7 +13,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
+        <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="5" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
