@@ -1,0 +1,9 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="database" value="Oracle" />
+      </Profile>
+    </option>
+  </component>
+</application>
