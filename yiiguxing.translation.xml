@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="src" />
       <item value="null" />
       <item value="secret" />
       <item value="Signature" />
