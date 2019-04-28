@@ -2,7 +2,7 @@
   <component name="StringManipulationState">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="104" />
+        <option name="actionsExecuted" value="110" />
         <option name="lastNaggingDate" value="1555924433491" />
       </DonationNagger>
     </option>
