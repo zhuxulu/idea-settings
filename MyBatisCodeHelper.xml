@@ -3,7 +3,6 @@
     <option name="profile">
       <Profile>
         <option name="database" value="Oracle" />
-        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
