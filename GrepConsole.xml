@@ -1,5 +1,12 @@
 <application>
   <component name="GrepConsole">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="1" />
+        <option name="firstUsage" value="1557475824938" />
+        <option name="firstUsedVersion" value="9.1.162.000.0" />
+      </DonationNagger>
+    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -116,5 +123,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
