@@ -1,7 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <internal_templates>
-      <template name="Class.java" reformat="false" live-template-enabled="false" enabled="true" />
-    </internal_templates>
-  </component>
-</application>
