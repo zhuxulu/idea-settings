@@ -2,6 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="tempFilePath" value="C:\Users\zhuxulu\AppData\Local\Temp\libhello.dll1213736758665834354" />
         <option name="valid" value="true" />
       </Profile>
     </option>
