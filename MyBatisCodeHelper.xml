@@ -2,8 +2,6 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="database" value="Oracle" />
-        <option name="tempFilePath" value="C:\Users\zhuxulu\AppData\Local\Temp\libhello.dll13466795103549126265" />
         <option name="valid" value="true" />
       </Profile>
     </option>
