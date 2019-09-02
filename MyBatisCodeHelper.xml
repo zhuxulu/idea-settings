@@ -2,6 +2,11 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="database" value="Oracle" />
+        <option name="generateMethodInService" value="true" />
+        <option name="generateMethodInServiceInterface" value="true" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="mybatisGeneratorMapperSuffix" value="" />
         <option name="tempFilePath" value="C:\Users\zhuxulu\AppData\Local\Temp\libhello.dll12860177777018477625" />
         <option name="valid" value="true" />
       </Profile>
