@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="425983" />
+    <option name="selectedTheme" value="GITHUB" />
+    <option name="userId" value="-2a7bf38f:16dc80dc312:-8000" />
+    <option name="version" value="4.8.0" />
+  </component>
+</application>
