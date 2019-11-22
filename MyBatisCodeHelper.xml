@@ -7,7 +7,12 @@
         <option name="generateMethodInServiceInterface" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="mybatisGeneratorMapperSuffix" value="" />
-        <option name="tempFilePath" value="C:\Users\zhuxulu\AppData\Local\Temp\libhello.dll15108945504327442993" />
+        <option name="tempFilePath" value="C:\Users\zhuxulu\AppData\Local\Temp\libhello.dll14058517813798501521" />
+        <option name="userMacSet">
+          <set>
+            <option value="70-15-34-44-87-92" />
+          </set>
+        </option>
         <option name="valid" value="true" />
       </Profile>
     </option>
