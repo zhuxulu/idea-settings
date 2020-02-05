@@ -1,1 +1,5 @@
-<keymap version="1" name="macOS_tom" parent="Mac OS X 10.5+" />
+<keymap version="1" name="macOS_tom" parent="Mac OS X 10.5+">
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+</keymap>
