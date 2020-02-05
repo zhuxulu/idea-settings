@@ -1,5 +1,9 @@
 <keymap version="1" name="macOS_tom" parent="Mac OS X 10.5+">
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
 </keymap>
