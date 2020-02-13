@@ -6,6 +6,10 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="Toolkit.GotoService">
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
