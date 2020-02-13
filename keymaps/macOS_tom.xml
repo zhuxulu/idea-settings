@@ -6,4 +6,7 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="Toolkit.GotoService">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
 </keymap>
