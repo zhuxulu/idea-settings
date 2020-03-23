@@ -9,6 +9,7 @@
         <option name="mybatisGeneratorMapperSuffix" value="" />
         <option name="userMacSet">
           <set>
+            <option value="00-1C-42-00-00-09" />
             <option value="70-15-34-44-87-92" />
             <option value="70-15-34-C4-6C-51" />
           </set>
