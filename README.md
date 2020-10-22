@@ -96,4 +96,5 @@
 | RestfulTookit                  | 一套 RESTful 服务开发辅助工具集                |
 | Grep Console                   | 控制台配色                                     |
 | Rainbow Brackets               | 彩色括号                                       |
+| Indent Rainbow                 | 高亮缩进                                       |
 
