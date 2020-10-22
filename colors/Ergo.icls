@@ -1,6 +1,6 @@
 <scheme name="Ergo" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2018-12-12T16:25:28</property>
+    <property name="modified">2020-10-22T14:43:57</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
@@ -361,6 +361,31 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8225c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="ebebd4" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="dbebdb" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="ebdbeb" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="d6e8e8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="c9acac" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">

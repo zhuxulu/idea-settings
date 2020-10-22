@@ -4,7 +4,7 @@
     <property name="created">2019-10-14T10:16:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-10-14T10:28:00</property>
+    <property name="modified">2020-10-22T14:43:57</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <console-font>
@@ -964,6 +964,36 @@
       <value>
         <option name="FOREGROUND" value="808080" />
         <option name="EFFECT_COLOR" value="808080" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="fbfbe4" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="ebfbeb" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="fbebfb" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="e5f8f8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="d5b8b8" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

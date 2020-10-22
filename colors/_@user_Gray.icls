@@ -3,7 +3,7 @@
     <property name="created">2019-10-14T10:12:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-10-14T10:26:05</property>
+    <property name="modified">2020-10-22T14:43:57</property>
     <property name="originalScheme">Gray</property>
   </metaInfo>
   <colors>
@@ -148,6 +148,31 @@
         <option name="FOREGROUND" value="185b9e" />
         <option name="EFFECT_COLOR" value="185b9e" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="fbfbe5" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="ebfbed" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="fbecfc" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="e5f9fa" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d5b9ba" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
