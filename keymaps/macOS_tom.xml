@@ -13,4 +13,7 @@
   <action id="Toolkit.GotoService">
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
+  <action id="osmedile.intellij.stringmanip.RepeatAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
 </keymap>
