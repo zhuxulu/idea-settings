@@ -1,6 +1,8 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="autoFetchEnabled" value="false" />
+    <option name="autoFetchOnBranchSwitch" value="false" />
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="3" />
+    <option name="version" value="4" />
   </component>
 </application>
