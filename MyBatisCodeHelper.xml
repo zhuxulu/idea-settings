@@ -1,0 +1,24 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="database" value="Oracle" />
+        <option name="generateMethodInService" value="true" />
+        <option name="generateMethodInServiceInterface" value="true" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="mybatisGeneratorMapperSuffix" value="" />
+        <option name="userMacSet">
+          <set>
+            <option value="00-1C-42-00-00-09" />
+            <option value="00-E0-4C-68-1B-8E" />
+            <option value="70-15-34-44-87-92" />
+            <option value="70-15-34-C4-6C-51" />
+            <option value="72-3C-69-9D-C3-89" />
+            <option value="FA-FF-C2-B4-1B-64" />
+            <option value="FA-FF-C2-B4-1B-65" />
+          </set>
+        </option>
+      </Profile>
+    </option>
+  </component>
+</application>

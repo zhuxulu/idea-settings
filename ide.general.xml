@@ -1,0 +1,15 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="reopenLastProject" value="false" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

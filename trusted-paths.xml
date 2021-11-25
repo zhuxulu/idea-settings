@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/project/inspur-fast" />
+        <option value="$USER_HOME$/project/060_四川移动费用稽核系统/01_产品研发" />
+      </list>
+    </option>
+  </component>
+</application>

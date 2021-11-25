@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="Vcs Notifications" shouldLog="false" />
+  </component>
+</application>
